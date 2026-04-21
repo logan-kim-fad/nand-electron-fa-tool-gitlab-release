@@ -1,1 +1,8 @@
-V1.1.1
+version: 1.1.1
+files:
+  - url: nand-fa-tool-1.1.1-setup-x64.exe
+    sha512: CU9z+iEPOhSLp61U6IF9uiQ6vwB1dy5ShuXRmGt2biAq/5ERz+Sem7dj1w4uQYYM9/VS86FzErOYtQrq629Hzg==
+    size: 83312060
+path: nand-fa-tool-1.1.1-setup-x64.exe
+sha512: CU9z+iEPOhSLp61U6IF9uiQ6vwB1dy5ShuXRmGt2biAq/5ERz+Sem7dj1w4uQYYM9/VS86FzErOYtQrq629Hzg==
+releaseDate: '2026-04-20T11:03:37.906Z'
