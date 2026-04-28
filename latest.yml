@@ -1,8 +1,8 @@
-version: 1.1.0
+version: 1.1.1
 files:
-  - url: https://gitlab.fadutec.dev/api/v4/projects/380/packages/generic/nand-fa-tool/1.1.1/nand-fa-tool-1.1.0-setup-x64.exe
-    sha512: xe0J/3929bgEFPNvh5uhnpbyTYEwVjTqwGISMTdog8nH3a4MkVA9GqgaY/vyuktCO77aO6CWolYo0zqavn14oA==
-    size: 82703299
-path: https://gitlab.fadutec.dev/api/v4/projects/380/packages/generic/nand-fa-tool/1.1.1/nand-fa-tool-1.1.0-setup-x64.exe
-sha512: xe0J/3929bgEFPNvh5uhnpbyTYEwVjTqwGISMTdog8nH3a4MkVA9GqgaY/vyuktCO77aO6CWolYo0zqavn14oA==
-releaseDate: '2026-04-28T10:14:01.405Z'
+  - url: https://gitlab.fadutec.dev/api/v4/projects/380/packages/generic/nand-fa-tool/1.1.1/nand-fa-tool-1.1.1-setup-x64.exe
+    sha512: 2ZIXu10lbU6qdLzwRXRKkL9CAVgPyh7l86N08o/UiQjKIJuFg5ZZEVr9YsP+7ywnX9w6juWEZuoYHlstPIZA/A==
+    size: 82703283
+path: https://gitlab.fadutec.dev/api/v4/projects/380/packages/generic/nand-fa-tool/1.1.1/nand-fa-tool-1.1.1-setup-x64.exe
+sha512: 2ZIXu10lbU6qdLzwRXRKkL9CAVgPyh7l86N08o/UiQjKIJuFg5ZZEVr9YsP+7ywnX9w6juWEZuoYHlstPIZA/A==
+releaseDate: '2026-04-28T10:17:53.788Z'
